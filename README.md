@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/deepakpandey0053/my-dsa-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0179-largest-number](https://github.com/deepakpandey0053/my-dsa-journey/tree/master/0179-largest-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/deepakpandey0053/my-dsa-journey/tree/master/0977-squares-of-a-sorted-array) |
+| [1773-count-items-matching-a-rule](https://github.com/deepakpandey0053/my-dsa-journey/tree/master/1773-count-items-matching-a-rule) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/deepakpandey0053/my-dsa-journey/tree/master/0179-largest-number) |
+| [1773-count-items-matching-a-rule](https://github.com/deepakpandey0053/my-dsa-journey/tree/master/1773-count-items-matching-a-rule) |
 ## Greedy
 |  |
 | ------- |
